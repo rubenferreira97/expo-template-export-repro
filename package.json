@@ -1,0 +1,15 @@
+{
+  "name": "expo-template-export-repro",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "repro": "node repro.cjs",
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "58.0.2",
+    "react": "19.3.0",
+    "react-native": "0.88.0-rc.3"
+  }
+}

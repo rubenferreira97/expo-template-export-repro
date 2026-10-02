@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "slug": "expo-template-export-repro",
+    "name": "Expo template export reproduction",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.expotemplateexportrepro"
+    }
+  }
+}
